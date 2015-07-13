@@ -1,0 +1,22 @@
+<templateSet group="PHP">
+  <template name="iss" value="isset($SELECTION$)$END$" description="surround with isset()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="niss" value="!isset($SELECTION$)$END$" description="surround with !isset()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="switch" value="switch ($var1$) {&#10;    case $var2$:&#10;        $var3$&#10;        break;&#10;&#10;    case $var4$:&#10;        $var5$      &#10;        break;&#10;&#10;    default:&#10;}" description="switch clause" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var4" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var5" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
