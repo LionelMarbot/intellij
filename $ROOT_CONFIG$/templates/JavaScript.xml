@@ -1,5 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="log" value="console.log($var$);" description="Console log" toReformat="false" toShortenFQNames="true">
+  <template name="lo" value="console.log($var$);" description="Console log" toReformat="false" toShortenFQNames="true">
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
