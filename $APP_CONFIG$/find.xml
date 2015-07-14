@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\xampp\htdocs\esc-redesign\scripts\js\user.builder.settings.js'" />
-    <option name="defaultScopeName" value="File 'C:\xampp\htdocs\esc-redesign\scripts\js\user.builder.settings.js'" />
+    <option name="customScope" value="File 'C:\xampp\htdocs\esc-redesign\scripts\js\user.builder.choices.js'" />
+    <option name="defaultScopeName" value="File 'C:\xampp\htdocs\esc-redesign\scripts\js\user.builder.choices.js'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'C:\xampp\htdocs\esc-redesign\scripts\js\user.builder.settings.js'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\xampp\htdocs\esc-redesign\scripts\js\user.builder.choices.js'" />
   </component>
 </application>
