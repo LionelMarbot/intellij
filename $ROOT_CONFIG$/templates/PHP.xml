@@ -19,4 +19,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="pre" value="echo '&lt;pre&gt;';&#10;print_r($SELECTION$$END$);&#10;echo '&lt;/pre&gt;';" description="print var enclosed with pre-tags" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
