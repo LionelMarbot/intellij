@@ -24,4 +24,15 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="cas" value="case $VAR1$:&#10;&#9;$VAR2$;&#10;&#9;break;" description="add case to switch clause" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
