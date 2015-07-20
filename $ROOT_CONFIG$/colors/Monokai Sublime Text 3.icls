@@ -1,6 +1,8 @@
 <scheme name="Monokai Sublime Text 3" version="141" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -518,6 +520,13 @@
       <value>
         <option name="FOREGROUND" value="66d9ef" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_TAG">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="BACKGROUND" value="272822" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
