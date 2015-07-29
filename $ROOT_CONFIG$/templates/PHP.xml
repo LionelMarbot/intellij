@@ -35,4 +35,12 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="tr" value="try {&#10;&#9;$var1$&#10;&#9;&#10;} catch (\Exception$var2$ $e) {&#10;&#9;$var3$&#10;}" description="try and catch clause" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
