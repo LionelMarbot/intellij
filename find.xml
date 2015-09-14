@@ -1,12 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File 'E:\xampp\htdocs\git-local\esc-redesign\scripts\js\global.jquery.togswitch-v2.js'" />
-    <option name="defaultScopeName" value="File 'E:\xampp\htdocs\git-local\esc-redesign\scripts\js\global.jquery.togswitch-v2.js'" />
-    <option name="regularExpressions" value="true" />
+    <option name="customScope" value="Open Files" />
+    <option name="defaultScopeName" value="Open Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'E:\xampp\htdocs\git-local\esc-redesign\scripts\js\global.jquery.togswitch-v2.js'" />
+    <option name="SEARCH_SCOPE" value="Open Files" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
