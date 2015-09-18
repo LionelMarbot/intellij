@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Only own files (e.g. w/o &quot;vendor&quot;)" />
-    <option name="defaultScopeName" value="Only own files (e.g. w/o &quot;vendor&quot;)" />
+    <option name="customScope" value="Directory 'C:\xampp\htdocs\esc-redesign\models\survey\viewmodes\live\table'" />
+    <option name="defaultScopeName" value="Directory 'C:\xampp\htdocs\esc-redesign\models\survey\viewmodes\live\table'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Only own files (e.g. w/o &quot;vendor&quot;)" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\xampp\htdocs\esc-redesign\models\survey\viewmodes\live\table'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
