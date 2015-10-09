@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File 'E:\xampp\htdocs\git-local\esc-redesign\scripts\js\global.jquery.confirmbox.js'" />
-    <option name="defaultScopeName" value="File 'E:\xampp\htdocs\git-local\esc-redesign\scripts\js\global.jquery.confirmbox.js'" />
+    <option name="customScope" value="File 'E:\xampp\htdocs\git-local\esc-redesign\scripts\js\global.jquery.repdf.js'" />
+    <option name="defaultScopeName" value="File 'E:\xampp\htdocs\git-local\esc-redesign\scripts\js\global.jquery.repdf.js'" />
     <option name="localCaseSensitive" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'E:\xampp\htdocs\git-local\esc-redesign\scripts\js\global.jquery.confirmbox.js'" />
+    <option name="SEARCH_SCOPE" value="File 'E:\xampp\htdocs\git-local\esc-redesign\scripts\js\global.jquery.repdf.js'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
