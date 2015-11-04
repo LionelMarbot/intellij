@@ -1,9 +1,4 @@
-<keymap version="1" name="Default copy" parent="$default">
-  <action id="$Redo">
-    <keyboard-shortcut first-keystroke="shift ctrl z" />
-    <keyboard-shortcut first-keystroke="shift alt back_space" />
-    <keyboard-shortcut first-keystroke="ctrl y" />
-  </action>
+<keymap version="1" name="Lionel Marbot" parent="$default">
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -14,15 +9,12 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl 7" />
   </action>
-  <action id="Console.TableResult.DeleteRows" />
-  <action id="Editor Redo">
-    <keyboard-shortcut first-keystroke="ctrl y" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
   </action>
-  <action id="EditorDeleteLine" />
   <action id="GotoBookmark7" />
-  <action id="JumpToLastChange">
-    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
-    <keyboard-shortcut first-keystroke="alt minus" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt f8" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
