@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File 'E:\xampp\htdocs\git-local\esc-redesign\src\views\questionnaire\index.php'" />
-    <option name="defaultScopeName" value="File 'E:\xampp\htdocs\git-local\esc-redesign\src\views\questionnaire\index.php'" />
+    <option name="customScope" value="Only own files (e.g. not /vendor)" />
+    <option name="defaultScopeName" value="Only own files (e.g. not /vendor)" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'E:\xampp\htdocs\git-local\esc-redesign\src\views\questionnaire\index.php'" />
+    <option name="SEARCH_SCOPE" value="Only own files (e.g. not /vendor)" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
