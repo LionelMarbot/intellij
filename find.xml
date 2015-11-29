@@ -4,10 +4,8 @@
     <option name="customScope" value="Directory 'C:\xampp\htdocs\esc-redesign\src\controllers'" />
     <option name="defaultScopeName" value="Directory 'C:\xampp\htdocs\esc-redesign\src\controllers'" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory 'C:\xampp\htdocs\esc-redesign\src\controllers'" />
     <recentFileMasks>
       <mask>*.properties</mask>
