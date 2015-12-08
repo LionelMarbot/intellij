@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Only own files (e.g. not /vendor)" />
     <option name="defaultScopeName" value="Only own files (e.g. not /vendor)" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Only own files (e.g. not /vendor)" />
     <recentFileMasks>
       <mask>*.properties</mask>
