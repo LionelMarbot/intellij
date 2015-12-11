@@ -1,0 +1,22 @@
+<templateSet group="gulp">
+  <template name="buildc" value="&lt;!-- build:css /resources/uncompressed/css/$VAR1$.css --&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="endb" value="&lt;!-- endbuild --&gt;" description="endbuild" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="buildj" value="&lt;!-- build:js /resources/uncompressed/js/$VAR1$.js --&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
