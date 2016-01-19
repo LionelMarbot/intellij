@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Only own files (e.g. not /vendor)" />
-    <option name="defaultScopeName" value="Only own files (e.g. not /vendor)" />
-    <option name="SEARCH_SCOPE" value="Only own files (e.g. not /vendor)" />
+    <option name="customScope" value="File 'E:\xampp\htdocs\git-local\esc-redesign\src\resources\css\user.overlay.css'" />
+    <option name="defaultScopeName" value="File 'E:\xampp\htdocs\git-local\esc-redesign\src\resources\css\user.overlay.css'" />
+    <option name="SEARCH_SCOPE" value="File 'E:\xampp\htdocs\git-local\esc-redesign\src\resources\css\user.overlay.css'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
