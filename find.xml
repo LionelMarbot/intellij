@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Directory 'E:\xampp\htdocs\git-local\esc-redesign\src\models\email\error'" />
     <option name="defaultScopeName" value="Directory 'E:\xampp\htdocs\git-local\esc-redesign\src\models\email\error'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory 'E:\xampp\htdocs\git-local\esc-redesign\src\models\email\error'" />
     <recentFileMasks>
       <mask>*.properties</mask>
