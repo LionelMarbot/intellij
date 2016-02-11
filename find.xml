@@ -1,19 +1,19 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'E:\xampp\htdocs\git-local\esc-redesign\src\models\email\error'" />
-    <option name="defaultScopeName" value="Directory 'E:\xampp\htdocs\git-local\esc-redesign\src\models\email\error'" />
-    <option name="SEARCH_SCOPE" value="Directory 'E:\xampp\htdocs\git-local\esc-redesign\src\models\email\error'" />
+    <option name="customScope" value="Only own files (e.g. w/o &quot;vendor&quot;)" />
+    <option name="defaultScopeName" value="Only own files (e.g. w/o &quot;vendor&quot;)" />
+    <option name="SEARCH_SCOPE" value="Only own files (e.g. w/o &quot;vendor&quot;)" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
