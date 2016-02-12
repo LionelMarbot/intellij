@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Only own files (e.g. w/o &quot;vendor&quot;)" />
-    <option name="defaultScopeName" value="Only own files (e.g. w/o &quot;vendor&quot;)" />
-    <option name="SEARCH_SCOPE" value="Only own files (e.g. w/o &quot;vendor&quot;)" />
+    <option name="customScope" value="Directory 'C:\xampp\htdocs\procedural-vs-object-oriented\src\oop'" />
+    <option name="defaultScopeName" value="Directory 'C:\xampp\htdocs\procedural-vs-object-oriented\src\oop'" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\xampp\htdocs\procedural-vs-object-oriented\src\oop'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
