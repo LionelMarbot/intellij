@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'C:\xampp\htdocs\procedural-vs-object-oriented\src\oop\model\page'" />
-    <option name="defaultScopeName" value="Directory 'C:\xampp\htdocs\procedural-vs-object-oriented\src\oop\model\page'" />
-    <option name="SEARCH_SCOPE" value="Directory 'C:\xampp\htdocs\procedural-vs-object-oriented\src\oop\model\page'" />
+    <option name="customScope" value="Directory 'C:\xampp\htdocs\procedural-vs-object-oriented\src\oop\model'" />
+    <option name="defaultScopeName" value="Directory 'C:\xampp\htdocs\procedural-vs-object-oriented\src\oop\model'" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\xampp\htdocs\procedural-vs-object-oriented\src\oop\model'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
