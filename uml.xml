@@ -3,6 +3,7 @@
     <option name="categories">
       <map>
         <entry id="JAVA" categories="Fields;Constructors;Methods;Properties;Inner Classes;Show One To One;Show Cyclic" />
+        <entry id="PHP" categories="Fields;Constants;Constructors;Methods" />
       </map>
     </option>
   </component>
