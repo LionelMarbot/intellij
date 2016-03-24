@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="14">
     <ignoreFiles list="*.dyn_hi;*.dyn_o;*.hi;*.hprof;*.o;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".ebignore" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
