@@ -14,9 +14,7 @@
     <context />
   </template>
   <template name="pre" value="echo '&lt;pre&gt;';&#10;print_r($SELECTION$$END$);&#10;echo '&lt;/pre&gt;';" description="print var enclosed with pre-tags" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
+    <context />
   </template>
   <template name="cas" value="case $VAR1$:&#10;&#9;$VAR2$;&#10;&#9;break;" description="add case to switch clause" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
@@ -32,8 +30,6 @@
     <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>
