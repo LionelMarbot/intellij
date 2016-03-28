@@ -489,9 +489,20 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="a7ec21" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="a7ec21" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
