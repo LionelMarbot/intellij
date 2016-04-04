@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Only own files (e.g. w/o &quot;vendor&quot;)" />
-    <option name="defaultScopeName" value="Only own files (e.g. w/o &quot;vendor&quot;)" />
+    <option name="customScope" value="Only own files (e.g. not /vendor)" />
+    <option name="defaultScopeName" value="Only own files (e.g. not /vendor)" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Only own files (e.g. w/o &quot;vendor&quot;)" />
+    <option name="SEARCH_SCOPE" value="Only own files (e.g. not /vendor)" />
     <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
