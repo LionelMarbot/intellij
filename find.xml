@@ -3,7 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="File 'C:\xampp\htdocs\translate.enuvo.ch\src\models\RevisionFactory.php'" />
     <option name="defaultScopeName" value="File 'C:\xampp\htdocs\translate.enuvo.ch\src\models\RevisionFactory.php'" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File 'C:\xampp\htdocs\translate.enuvo.ch\src\models\RevisionFactory.php'" />
     <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
