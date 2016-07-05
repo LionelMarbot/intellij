@@ -3,6 +3,7 @@
     <option name="customScope" value="Directory 'C:\xampp\htdocs\analytics.enuvo.ch\src'" />
     <option name="defaultScopeName" value="Directory 'C:\xampp\htdocs\analytics.enuvo.ch\src'" />
     <option name="SEARCH_SCOPE" value="Directory 'C:\xampp\htdocs\analytics.enuvo.ch\src'" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -12,9 +13,9 @@
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.js</mask>
-      <mask>*.ts</mask>
       <mask>*.css</mask>
       <mask>*.php</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
