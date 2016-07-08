@@ -63,13 +63,10 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
-  <component name="DependencyUISettings">
-    <option name="SCOPE_TYPE" value="file" />
-  </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="C:/Program Files/nodejs/node.exe">
-      <version-cache version="5.1.1" last-modified="1449177848000" />
-      <npm-package value="C:\Program Files\nodejs\node_modules\npm" />
+      <version-cache version="4.4.7" last-modified="1467140852000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
     </local-interpreter>
   </component>
   <component name="PhpRefactoringSettings">
