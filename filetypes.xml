@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".ebignore" type="PLAIN_TEXT" />
+      <mapping ext="config" type="YAML" />
     </extensionMap>
   </component>
 </application>
