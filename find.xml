@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Changed Files" />
-    <option name="defaultScopeName" value="Changed Files" />
-    <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="customScope" value="TypeScript" />
+    <option name="defaultScopeName" value="TypeScript" />
+    <option name="SEARCH_SCOPE" value="TypeScript" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,8 +14,8 @@
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
-      <mask>*.ts</mask>
       <mask>*.css</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
