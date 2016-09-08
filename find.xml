@@ -1,9 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="TypeScript" />
-    <option name="defaultScopeName" value="TypeScript" />
-    <option name="SEARCH_SCOPE" value="TypeScript" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Changed Files" />
+    <option name="defaultScopeName" value="Changed Files" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Changed Files" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,9 +14,9 @@
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.js</mask>
-      <mask>*.css</mask>
       <mask>*.php</mask>
       <mask>*.ts</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
