@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="try" value="try {&#10;    $VAR1$&#10;} catch (\Exception $e) {&#10;    $VAR2$&#10;}" description="try and catch clause" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
