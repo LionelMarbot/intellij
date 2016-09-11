@@ -6,4 +6,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="pre" value="echo '&lt;pre&gt;';&#10;print_r($VAR1$);&#10;echo '&lt;/pre&gt;';" description="&lt;pre&gt; block" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
