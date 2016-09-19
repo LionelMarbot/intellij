@@ -3,6 +3,7 @@
     <option name="customScope" value="Own files" />
     <option name="defaultScopeName" value="Own files" />
     <option name="SEARCH_SCOPE" value="Own files" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
