@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'C:\xampp\htdocs\esc-redesign\src\models\survey\element'" />
-    <option name="defaultScopeName" value="Directory 'C:\xampp\htdocs\esc-redesign\src\models\survey\element'" />
-    <option name="SEARCH_SCOPE" value="Directory 'C:\xampp\htdocs\esc-redesign\src\models\survey\element'" />
+    <option name="customScope" value="TypeScript" />
+    <option name="defaultScopeName" value="TypeScript" />
+    <option name="SEARCH_SCOPE" value="TypeScript" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
