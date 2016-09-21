@@ -12,7 +12,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="dec" value="declare(strict_types = 1);" description="Declare strict type" toReformat="false" toShortenFQNames="true">
+  <template name="strict" value="declare(strict_types = 1);" description="Declare strict type" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
