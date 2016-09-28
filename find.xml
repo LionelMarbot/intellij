@@ -3,6 +3,7 @@
     <option name="customScope" value="Directory 'C:\xampp\htdocs\esc-redesign\src\models\activities'" />
     <option name="defaultScopeName" value="Directory 'C:\xampp\htdocs\esc-redesign\src\models\activities'" />
     <option name="SEARCH_SCOPE" value="Directory 'C:\xampp\htdocs\esc-redesign\src\models\activities'" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
