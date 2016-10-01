@@ -1,7 +1,6 @@
 <templateSet group="JavaScript">
-  <template name="for" value="for (let i = 0; i &lt; $VAR1$.length; i++) {&#10;    let $VAR2$ = $VAR1$[i];&#10;}" description="for loop" toReformat="false" toShortenFQNames="true">
+  <template name="fo" value="for (let i = 0; i &lt; $VAR1$.length; i++) {&#10;    $VAR1$[i];&#10;}" description="for loop" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
