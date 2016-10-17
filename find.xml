@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="TypeScript" />
     <option name="defaultScopeName" value="TypeScript" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="TypeScript" />
     <recentFileMasks>
       <mask>*.properties</mask>
