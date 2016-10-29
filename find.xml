@@ -1,13 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="TypeScript" />
-    <option name="defaultScopeName" value="TypeScript" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="TypeScript" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="customScope" value="Directory '[esc-redesign] - ...\src\models\survey\viewmodes\report'" />
+    <option name="defaultScopeName" value="Directory '[esc-redesign] - ...\src\models\survey\viewmodes\report'" />
+    <option name="SEARCH_SCOPE" value="Directory '[esc-redesign] - ...\src\models\survey\viewmodes\report'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
