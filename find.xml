@@ -1,11 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="TypeScript" />
-    <option name="defaultScopeName" value="TypeScript" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="TypeScript" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="customScope" value="Own files" />
+    <option name="defaultScopeName" value="Own files" />
+    <option name="SEARCH_SCOPE" value="Own files" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
