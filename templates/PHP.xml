@@ -2,13 +2,9 @@
   <template name="try" value="try {&#10;    $VAR1$&#10;} catch (\Exception $e) {&#10;    $VAR2$&#10;}" description="try and catch clause" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="pre" value="echo '&lt;pre&gt;';&#10;print_r($VAR1$);&#10;echo '&lt;/pre&gt;';" description="&lt;pre&gt; block" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
-  <template name="stric" value="declare(strict_types = 1);" description="Declare strict type" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="stric" value="declare(strict_types = 1);" description="Declare strict type" toReformat="false" toShortenFQNames="true" />
 </templateSet>
