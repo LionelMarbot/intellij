@@ -1,11 +1,6 @@
 <application>
   <component name="libraryTable">
     <library name="global.jquery.cache" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__local.surveyhero.com_resources_js_global.jquery.cache.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__local.surveyhero.com_resources_js_global.jquery.cache.js" />
       </CLASSES>
@@ -13,11 +8,6 @@
       <SOURCES />
     </library>
     <library name="global.spin" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__local.surveyhero.com_resources_js_lib_global.spin.min.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__local.surveyhero.com_resources_js_lib_global.spin.min.js" />
       </CLASSES>
@@ -27,9 +17,6 @@
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__local.surveyhero.com_resources_bower_components_jquery_dist_jquery.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__local.surveyhero.com_resources_bower_components_jquery_dist_jquery.js" />
@@ -43,9 +30,6 @@
     <library name="jquery.fileupload" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__local.surveyhero.com_resources_bower_components_jquery-file-upload_js_jquery.fileupload.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__local.surveyhero.com_resources_bower_components_jquery-file-upload_js_jquery.fileupload.js" />
@@ -59,9 +43,6 @@
     <library name="jquery.iframe-transport" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__local.surveyhero.com_resources_bower_components_jquery-file-upload_js_jquery.iframe-transport.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__local.surveyhero.com_resources_bower_components_jquery-file-upload_js_jquery.iframe-transport.js" />
@@ -75,9 +56,6 @@
     <library name="widget" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__local.surveyhero.com_resources_bower_components_jquery-ui_ui_widget.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__local.surveyhero.com_resources_bower_components_jquery-ui_ui_widget.js" />
