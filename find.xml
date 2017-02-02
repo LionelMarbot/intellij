@@ -1,11 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '[esc-redesign] - ...\src\models\subscription\StaticSubscriptionPlansProvider.php'" />
-    <option name="defaultScopeName" value="File '[esc-redesign] - ...\src\models\subscription\StaticSubscriptionPlansProvider.php'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[esc-redesign] - ...\src\models\subscription\StaticSubscriptionPlansProvider.php'" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
