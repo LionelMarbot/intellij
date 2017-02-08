@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Open Files" />
-    <option name="defaultScopeName" value="Open Files" />
+    <option name="customScope" value="File '[esc-redesign] - ...\src\controllers\ajax\collector\Settings.php'" />
+    <option name="defaultScopeName" value="File '[esc-redesign] - ...\src\controllers\ajax\collector\Settings.php'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="SEARCH_SCOPE" value="File '[esc-redesign] - ...\src\controllers\ajax\collector\Settings.php'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
