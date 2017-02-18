@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Own files" />
     <option name="defaultScopeName" value="Own files" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Own files" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,9 +14,9 @@
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*.css</mask>
-      <mask>*.ts</mask>
       <mask>!*.js</mask>
       <mask>*.php</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
