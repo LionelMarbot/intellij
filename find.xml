@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Own files" />
-    <option name="defaultScopeName" value="Own files" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Own files" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,7 +15,6 @@
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*.css</mask>
-      <mask>!*.js</mask>
       <mask>*.php</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
