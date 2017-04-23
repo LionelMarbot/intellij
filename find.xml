@@ -11,7 +11,6 @@
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
-      <mask>*.js</mask>
       <mask>*.ts|</mask>
       <mask>*.ts|*</mask>
       <mask>*.ts|*.</mask>
@@ -20,12 +19,14 @@
       <mask>*,t</mask>
       <mask>*,</mask>
       <mask>*</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
