@@ -26,10 +26,10 @@
       <mask>*.c</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
