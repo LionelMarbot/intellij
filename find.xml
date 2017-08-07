@@ -11,27 +11,27 @@
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
-      <mask>*.ts|</mask>
-      <mask>*.ts|*</mask>
-      <mask>*.ts|*.</mask>
-      <mask>*.ts|*.js</mask>
       <mask>*,ts</mask>
       <mask>*,t</mask>
       <mask>*,</mask>
-      <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
+      <mask>*.ts|*.p</mask>
+      <mask>*.ts|*.php</mask>
+      <mask>*</mask>
+      <mask>*.ts|*.js</mask>
+      <mask>*.ts|*.</mask>
+      <mask>*.ts|*</mask>
+      <mask>*.ts|</mask>
+      <mask>*.ph</mask>
       <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
-      <mask>*.hp</mask>
-      <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
