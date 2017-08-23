@@ -13,9 +13,6 @@
       <mask>*,ts</mask>
       <mask>*,t</mask>
       <mask>*,</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
       <mask>*.ts|*.p</mask>
       <mask>*.ts|*.php</mask>
       <mask>*.ts|*.js</mask>
@@ -32,8 +29,11 @@
       <mask>*t</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
