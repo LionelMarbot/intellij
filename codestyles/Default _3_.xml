@@ -1,9 +1,6 @@
 <code_scheme name="Default (3)">
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_TEXT_WRAP" value="0" />
-  <TypeScriptCodeStyleSettings>
-    <option name="SPACE_AFTER_TYPE_COLON" value="false" />
-  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>

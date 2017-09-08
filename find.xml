@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.html</mask>
@@ -13,6 +15,9 @@
       <mask>*,ts</mask>
       <mask>*,t</mask>
       <mask>*,</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
       <mask>*.ts|*.p</mask>
       <mask>*.ts|*.php</mask>
       <mask>*.ts|*.js</mask>
@@ -23,16 +28,13 @@
       <mask>*.h</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
+      <mask>*t</mask>
+      <mask>*</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*t</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
   </component>
