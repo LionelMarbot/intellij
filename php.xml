@@ -11,13 +11,13 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\xampp\php\php.exe" id="979fb6ac-5d66-4bfe-aeba-32ebaef78d02" name="PHP 7.0.9" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\xampp\php\php.exe" id="979fb6ac-5d66-4bfe-aeba-32ebaef78d02" name="PHP 7.1.9" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.0.9">
-        <phpinfo binary_type="PHP" php_cgi="C:\xampp\php\php-cgi.exe" php_cli="C:\xampp\php\php.exe" path_separator=";" version="7.0.9">
+      <interpreter name="PHP 7.1.9">
+        <phpinfo binary_type="PHP" php_cgi="C:\xampp\php\php-cgi.exe" php_cli="C:\xampp\php\php.exe" path_separator=";" version="7.1.9">
           <additional_php_ini />
           <configuration_file>C:\xampp\php\php.ini</configuration_file>
           <configuration_options>
@@ -38,7 +38,9 @@
             <configuration_option name="auto_prepend_file" value="" />
             <configuration_option name="bcmath.scale" value="0" />
             <configuration_option name="browscap" value="C:\xampp\php\extras\browscap.ini" />
-            <configuration_option name="curl.cainfo" value="" />
+            <configuration_option name="cli.pager" value="" />
+            <configuration_option name="cli.prompt" value="\b \&gt; " />
+            <configuration_option name="curl.cainfo" value="C:\xampp\apache\bin\curl-ca-bundle.crt" />
             <configuration_option name="date.default_latitude" value="31.7667" />
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
@@ -66,14 +68,14 @@
             <configuration_option name="exif.decode_unicode_motorola" value="UCS-2BE" />
             <configuration_option name="exif.encode_jis" value="" />
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
-            <configuration_option name="exit_on_timeout" value="0" />
             <configuration_option name="expose_php" value="1" />
             <configuration_option name="extension_dir" value="C:\xampp\php\ext" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
             <configuration_option name="from" value="" />
-            <configuration_option name="gd.jpeg_ignore_warning" value="0" />
+            <configuration_option name="gd.jpeg_ignore_warning" value="1" />
+            <configuration_option name="hard_timeout" value="2" />
             <configuration_option name="highlight.comment" value="#FF8000" />
             <configuration_option name="highlight.default" value="#0000BB" />
             <configuration_option name="highlight.html" value="#000000" />
@@ -152,7 +154,7 @@
             <configuration_option name="phar.require_hash" value="1" />
             <configuration_option name="post_max_size" value="8M" />
             <configuration_option name="precision" value="14" />
-            <configuration_option name="realpath_cache_size" value="16K" />
+            <configuration_option name="realpath_cache_size" value="4096K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
             <configuration_option name="register_argc_argv" value="1" />
             <configuration_option name="report_memleaks" value="1" />
@@ -160,7 +162,7 @@
             <configuration_option name="request_order" value="GP" />
             <configuration_option name="sendmail_from" value="" />
             <configuration_option name="sendmail_path" value="" />
-            <configuration_option name="serialize_precision" value="17" />
+            <configuration_option name="serialize_precision" value="-1" />
             <configuration_option name="session.auto_start" value="0" />
             <configuration_option name="session.cache_expire" value="180" />
             <configuration_option name="session.cache_limiter" value="nocache" />
@@ -169,19 +171,19 @@
             <configuration_option name="session.cookie_lifetime" value="0" />
             <configuration_option name="session.cookie_path" value="/" />
             <configuration_option name="session.cookie_secure" value="" />
-            <configuration_option name="session.entropy_file" value="" />
-            <configuration_option name="session.entropy_length" value="0" />
             <configuration_option name="session.gc_divisor" value="1000" />
             <configuration_option name="session.gc_maxlifetime" value="1440" />
             <configuration_option name="session.gc_probability" value="1" />
-            <configuration_option name="session.hash_bits_per_character" value="5" />
-            <configuration_option name="session.hash_function" value="0" />
             <configuration_option name="session.lazy_write" value="1" />
             <configuration_option name="session.name" value="PHPSESSID" />
             <configuration_option name="session.referer_check" value="" />
             <configuration_option name="session.save_handler" value="files" />
             <configuration_option name="session.save_path" value="C:\xampp\tmp" />
             <configuration_option name="session.serialize_handler" value="php" />
+            <configuration_option name="session.sid_bits_per_character" value="5" />
+            <configuration_option name="session.sid_length" value="26" />
+            <configuration_option name="session.trans_sid_hosts" value="" />
+            <configuration_option name="session.trans_sid_tags" value="a=href,area=href,frame=src,form=" />
             <configuration_option name="session.upload_progress.cleanup" value="1" />
             <configuration_option name="session.upload_progress.enabled" value="1" />
             <configuration_option name="session.upload_progress.freq" value="1%" />
@@ -200,7 +202,8 @@
             <configuration_option name="unserialize_callback_func" value="" />
             <configuration_option name="upload_max_filesize" value="2M" />
             <configuration_option name="upload_tmp_dir" value="C:\xampp\tmp" />
-            <configuration_option name="url_rewriter.tags" value="a=href,area=href,frame=src,input=src,form=fakeentry" />
+            <configuration_option name="url_rewriter.hosts" value="" />
+            <configuration_option name="url_rewriter.tags" value="form=" />
             <configuration_option name="user_agent" value="" />
             <configuration_option name="user_dir" value="" />
             <configuration_option name="user_ini.cache_ttl" value="300" />
@@ -232,14 +235,14 @@
             <configuration_option name="xdebug.force_display_errors" value="0" />
             <configuration_option name="xdebug.force_error_reporting" value="0" />
             <configuration_option name="xdebug.halt_level" value="0" />
-            <configuration_option name="xdebug.idekey" value="" />
+            <configuration_option name="xdebug.idekey" value="PHPSTORM" />
             <configuration_option name="xdebug.max_nesting_level" value="256" />
             <configuration_option name="xdebug.max_stack_frames" value="-1" />
             <configuration_option name="xdebug.overload_var_dump" value="2" />
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
             <configuration_option name="xdebug.profiler_append" value="0" />
-            <configuration_option name="xdebug.profiler_enable" value="1" />
-            <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
+            <configuration_option name="xdebug.profiler_enable" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger" value="1" />
             <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
             <configuration_option name="xdebug.profiler_output_dir" value="C:\xampp\tmp" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
@@ -249,7 +252,7 @@
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
-            <configuration_option name="xdebug.remote_host" value="localhost" />
+            <configuration_option name="xdebug.remote_host" value="127.0.0.1" />
             <configuration_option name="xdebug.remote_log" value="" />
             <configuration_option name="xdebug.remote_mode" value="req" />
             <configuration_option name="xdebug.remote_port" value="9000" />
@@ -279,7 +282,7 @@
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.4.1">
+            <debugger_info debugger="xdebug" debugger_version="2.5.5">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -316,6 +319,7 @@
             <extension name="pcre" />
             <extension name="pdo_mysql" />
             <extension name="pdo_sqlite" />
+            <extension name="readline" />
             <extension name="session" />
             <extension name="standard" />
             <extension name="tokenizer" />
