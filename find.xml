@@ -3,13 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="searchOverloadedMethods" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -32,11 +28,13 @@
       <mask>*.j</mask>
       <mask>*t</mask>
       <mask>*</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
       <mask>*.t</mask>
+      <mask>*.tes</mask>
+      <mask>*.te</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
   </component>
