@@ -3,8 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="searchOverloadedMethods" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -24,7 +27,6 @@
       <mask>*.ts|</mask>
       <mask>*.hs</mask>
       <mask>*.h</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*t</mask>
       <mask>*</mask>
@@ -36,6 +38,7 @@
       <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
