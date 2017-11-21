@@ -24,7 +24,6 @@
       <mask>*.ts|</mask>
       <mask>*.hs</mask>
       <mask>*.h</mask>
-      <mask>*.j</mask>
       <mask>*t</mask>
       <mask>*</mask>
       <mask>*.p</mask>
@@ -33,9 +32,10 @@
       <mask>*.te</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
     </recentFileMasks>
   </component>
 </application>
