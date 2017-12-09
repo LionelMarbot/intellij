@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Changed Files" />
-    <option name="defaultScopeName" value="Changed Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -24,14 +24,14 @@
       <mask>*.ts|</mask>
       <mask>*.hs</mask>
       <mask>*.h</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*t</mask>
       <mask>*</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*.tes</mask>
       <mask>*.te</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.</mask>
