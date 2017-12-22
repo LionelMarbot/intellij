@@ -30,11 +30,11 @@
       <mask>*.te</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
+      <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.</mask>
-      <mask>*.ph</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
