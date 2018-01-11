@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '...\src\models\survey\collector [esc-redesign]'" />
+    <option name="defaultScopeName" value="Directory '...\src\models\survey\collector [esc-redesign]'" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Directory '...\src\models\survey\collector [esc-redesign]'" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -24,18 +24,18 @@
       <mask>*.ts|</mask>
       <mask>*.hs</mask>
       <mask>*.h</mask>
-      <mask>*.j</mask>
       <mask>*t</mask>
       <mask>*</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*.tes</mask>
       <mask>*.te</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
