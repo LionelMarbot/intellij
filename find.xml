@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Open Files" />
-    <option name="defaultScopeName" value="Open Files" />
+    <option name="customScope" value="Directory '...\src\models\survey [esc-redesign]'" />
+    <option name="defaultScopeName" value="Directory '...\src\models\survey [esc-redesign]'" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="SEARCH_SCOPE" value="Directory '...\src\models\survey [esc-redesign]'" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>*.java</mask>
