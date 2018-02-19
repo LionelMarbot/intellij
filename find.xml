@@ -34,8 +34,8 @@
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
-      <mask>*.php</mask>
       <mask>*.ts</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
