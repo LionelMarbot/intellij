@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '...\src\models\access_control [esc-redesign]'" />
+    <option name="defaultScopeName" value="Directory '...\src\models\access_control [esc-redesign]'" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Directory '...\src\models\access_control [esc-redesign]'" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>*.java</mask>
