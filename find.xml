@@ -5,37 +5,16 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*,ts</mask>
-      <mask>*,t</mask>
-      <mask>*,</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.ts|*.p</mask>
-      <mask>*.ts|*.php</mask>
-      <mask>*.ts|*.js</mask>
-      <mask>*.ts|*.</mask>
-      <mask>*.ts|*</mask>
-      <mask>*.ts|</mask>
-      <mask>*.hs</mask>
-      <mask>*.h</mask>
-      <mask>*t</mask>
-      <mask>*</mask>
-      <mask>*.tes</mask>
-      <mask>*.te</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.ts" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
