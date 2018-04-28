@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '...\src\resources\js [esc-redesign]'" />
     <option name="defaultScopeName" value="Directory '...\src\resources\js [esc-redesign]'" />
+    <option name="localCaseSensitive" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '...\src\resources\js [esc-redesign]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
