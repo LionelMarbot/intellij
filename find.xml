@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\src\resources\js\questionnaire\element\question\DropDownQuestion.ts [esc-redesign]'" />
-    <option name="defaultScopeName" value="File '...\src\resources\js\questionnaire\element\question\DropDownQuestion.ts [esc-redesign]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\src\resources\js\questionnaire\element\question\DropDownQuestion.ts [esc-redesign]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
