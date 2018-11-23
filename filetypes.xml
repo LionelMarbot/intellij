@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".ebignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="htaccess" />
+      <mapping pattern=".env.example" type="htaccess" />
     </extensionMap>
   </component>
 </application>
