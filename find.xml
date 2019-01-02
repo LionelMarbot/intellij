@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\src [utils]'" />
-    <option name="defaultScopeName" value="Directory '...\src [utils]'" />
+    <option name="customScope" value="Only PHP" />
+    <option name="defaultScopeName" value="Only PHP" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\src [utils]'" />
+    <option name="SEARCH_SCOPE" value="Only PHP" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
