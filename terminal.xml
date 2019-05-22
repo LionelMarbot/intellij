@@ -1,0 +1,12 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <envs>
+      <env key="DEV_ENV" value="true" />
+      <env key="DB_HOST" value="localhost" />
+      <env key="DB_HOST_READ_REPLICA" value="localhost" />
+      <env key="DB_USER" value="root" />
+      <env key="DB_PWD" value="root" />
+      <env key="DB_NAME" value="surveyhero" />
+    </envs>
+  </component>
+</application>
