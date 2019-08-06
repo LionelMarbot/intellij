@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Only PHP files" />
     <option name="defaultScopeName" value="Only PHP files" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Only PHP files" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
