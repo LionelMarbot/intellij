@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\src [umfrageonline]'" />
-    <option name="defaultScopeName" value="Directory '...\src [umfrageonline]'" />
+    <option name="customScope" value="Only PHP files" />
+    <option name="defaultScopeName" value="Only PHP files" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\src [umfrageonline]'" />
+    <option name="SEARCH_SCOPE" value="Only PHP files" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
