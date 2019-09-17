@@ -625,6 +625,12 @@
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       </value>
     </option>
+    <option name="TS.TYPE_GUARD">
+      <value>
+        <option name="FOREGROUND" value="979c9e" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
