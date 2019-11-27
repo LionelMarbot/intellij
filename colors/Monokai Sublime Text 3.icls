@@ -550,6 +550,11 @@
         <option name="FOREGROUND" value="a7ec21" />
       </value>
     </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="5c6365" />
+      </value>
+    </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="808080" />
