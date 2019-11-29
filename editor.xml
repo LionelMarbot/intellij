@@ -1,6 +1,8 @@
 <application>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_ENTITIES" value="false" />
   </component>
 </application>
