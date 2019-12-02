@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Only PHP files" />
-    <option name="defaultScopeName" value="Only PHP files" />
+    <option name="customScope" value="File '...\src\controllers\user\survey\collector\Collector.php'" />
+    <option name="defaultScopeName" value="File '...\src\controllers\user\survey\collector\Collector.php'" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="Only PHP files" />
+    <option name="SEARCH_SCOPE" value="File '...\src\controllers\user\survey\collector\Collector.php'" />
     <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
