@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Only PHP files" />
-    <option name="defaultScopeName" value="Only PHP files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="Only PHP files" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,7 +16,7 @@
     <mask>*.mxml</mask>
     <mask>*.css</mask>
     <mask>*.d.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.php</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
