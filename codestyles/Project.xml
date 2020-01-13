@@ -1,4 +1,5 @@
 <code_scheme name="Project" version="173">
+  <option name="RIGHT_MARGIN" value="200" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_TEXT_WRAP" value="0" />
@@ -7,7 +8,7 @@
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
     <option name="SPACE_AFTER_COLON_IN_RETURN_TYPE" value="false" />
   </PHPCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="SPACE_AFTER_TYPE_COLON" value="false" />
     <option name="SPACES_WITHIN_UNION_TYPES" value="false" />
   </TypeScriptCodeStyleSettings>
