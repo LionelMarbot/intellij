@@ -10,6 +10,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="InvalidateCaches">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1580992177241" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
@@ -18,10 +26,25 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.plugins.PluginManagerMain$2">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1580992152006" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.notification.NotificationAction$1">
           <value>
             <ActionSummary>
               <option name="last" value="1580992020303" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
+          <value>
+            <ActionSummary>
               <option name="times" value="1" />
             </ActionSummary>
           </value>
