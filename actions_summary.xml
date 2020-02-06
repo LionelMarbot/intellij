@@ -2,6 +2,22 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="CodeCompletion">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1580992376137" />
+              <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorEnter">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1580992371274" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorLineStartWithSelection">
           <value>
             <ActionSummary>
@@ -21,8 +37,7 @@
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1580992029723" />
-              <option name="times" value="1" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -45,6 +60,15 @@
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
+              <option name="last" value="1580992273074" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1580992273074" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
