@@ -58,6 +58,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="EditorCopy">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581847438275" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorCut">
           <value>
             <ActionSummary>
@@ -253,8 +261,8 @@
         <entry key="InvalidateCaches">
           <value>
             <ActionSummary>
-              <option name="last" value="1580995330100" />
-              <option name="times" value="2" />
+              <option name="last" value="1581847253000" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -357,8 +365,8 @@
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1581846760279" />
-              <option name="times" value="20" />
+              <option name="last" value="1581847664681" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -375,6 +383,22 @@
             <ActionSummary>
               <option name="last" value="1581846889128" />
               <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Unscramble">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581847658053" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.diagnostic.IdeErrorsDialog$ForwardAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581847426522" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
