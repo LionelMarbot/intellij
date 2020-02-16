@@ -21,8 +21,8 @@
         <entry key="CheckForUpdate">
           <value>
             <ActionSummary>
-              <option name="last" value="1581845115232" />
-              <option name="times" value="4" />
+              <option name="last" value="1581848629456" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -61,8 +61,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581847438275" />
-              <option name="times" value="1" />
+              <option name="last" value="1581848469965" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="EditorLineStartWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581503770175" />
-              <option name="times" value="19" />
+              <option name="last" value="1581848612275" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -258,6 +258,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="InstallNodeLocalDependencies">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581848281027" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="InvalidateCaches">
           <value>
             <ActionSummary>
@@ -322,27 +330,35 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Rerun">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581848199555" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Run">
           <value>
             <ActionSummary>
-              <option name="last" value="1581847204895" />
-              <option name="times" value="2" />
+              <option name="last" value="1581848038563" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581846623924" />
-              <option name="times" value="11" />
+              <option name="last" value="1581848572181" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581847229840" />
-              <option name="times" value="5" />
+              <option name="last" value="1581848603163" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,8 +381,8 @@
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1581847664681" />
-              <option name="times" value="22" />
+              <option name="last" value="1581847733858" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
@@ -374,6 +390,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581845873063" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Stop">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581848043287" />
               <option name="times" value="2" />
             </ActionSummary>
           </value>
@@ -405,16 +429,16 @@
         <entry key="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581847203661" />
-              <option name="times" value="1" />
+              <option name="last" value="1581848036014" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581846507896" />
-              <option name="times" value="1" />
+              <option name="last" value="1581848791468" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,8 +477,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581847231428" />
-              <option name="times" value="5" />
+              <option name="last" value="1581848615402" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -479,6 +503,14 @@
             <ActionSummary>
               <option name="last" value="1581845119525" />
               <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581848548257" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
