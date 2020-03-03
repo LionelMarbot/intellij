@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Only PHP files" />
-    <option name="defaultScopeName" value="Only PHP files" />
+    <option name="customScope" value="File '...\src\controllers\results\SharedReport.php'" />
+    <option name="defaultScopeName" value="File '...\src\controllers\results\SharedReport.php'" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="Only PHP files" />
+    <option name="SEARCH_SCOPE" value="File '...\src\controllers\results\SharedReport.php'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
