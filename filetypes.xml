@@ -1,10 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping pattern="composer.lock" type="JSON" />
       <mapping pattern=".ebignore" type="PLAIN_TEXT" />
       <mapping pattern="i" type="PLAIN_TEXT" />
-      <removed_mapping pattern="phpunit.xml.dist" type="XML" />
       <mapping ext="config" type="YAML" />
       <mapping pattern=".env.example" type="htaccess" />
     </extensionMap>
