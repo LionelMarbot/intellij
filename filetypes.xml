@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".ebignore" type="PLAIN_TEXT" />
       <mapping pattern="i" type="PLAIN_TEXT" />
+      <mapping pattern=".ebignore" type="PLAIN_TEXT" />
       <mapping ext="config" type="YAML" />
       <mapping pattern=".env.example" type="htaccess" />
     </extensionMap>
