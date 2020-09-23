@@ -1,0 +1,12 @@
+<templateSet group="HTML/XML">
+  <template name="ts" value="&lt;?= t('$SELECTION$') ?&gt;" description="Wrap text with &lt;?= t('...') ?&gt; single quotes" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="td" value="&lt;?= t(&quot;$SELECTION$&quot;) ?&gt;" description="Wrap text with &lt;?= t(&quot;...&quot;) ?&gt; double quotes" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
