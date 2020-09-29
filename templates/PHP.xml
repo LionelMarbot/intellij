@@ -7,4 +7,9 @@
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
   </template>
   <template name="stric" value="declare(strict_types = 1);" description="Declare strict type" toReformat="false" toShortenFQNames="true" />
+  <template name="esc" value="htmlspecialchars($SELECTION$)" description="htmlspecialchars" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
