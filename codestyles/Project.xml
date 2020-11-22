@@ -6,6 +6,7 @@
   </HTMLCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="SPACE_AFTER_TYPE_COLON" value="false" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="SPACES_WITHIN_UNION_TYPES" value="false" />
   </TypeScriptCodeStyleSettings>
   <XML>
