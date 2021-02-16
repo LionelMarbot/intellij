@@ -3,11 +3,11 @@
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="rsc" value="import React from 'react';&#10;&#10;interface PropsInterface {&#10;}&#10;&#10;const $TM_FILENAME_BASE$ = (props:PropsInterface) =&gt; {&#10; return (&#10;  &lt;div&gt;&#10;   $END$&#10;  &lt;/div&gt;&#10; );&#10;};&#10;&#10;export default $TM_FILENAME_BASE$;" description="Creates a stateless React component without PropTypes and ES6 module system" toReformat="true" toShortenFQNames="true">
+  <template name="rsc" value="import * as React from &quot;react&quot;;&#10;&#10;interface PropsInterface {&#10;}&#10;&#10;const $TM_FILENAME_BASE$ = (props:PropsInterface) =&gt; {&#10; return (&#10;  &lt;div&gt;&#10;   $END$&#10;  &lt;/div&gt;&#10; );&#10;};&#10;&#10;export default $TM_FILENAME_BASE$;" description="Creates a stateless React component without PropTypes and ES6 module system" toReformat="true" toShortenFQNames="true">
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="rsco" value="import React from 'react';&#10;import {observer} from &quot;mobx-react&quot;;&#10;&#10;interface PropsInterface {&#10;}&#10;&#10;const $TM_FILENAME_BASE$ = observer((props:PropsInterface) =&gt; {&#10; return (&#10;  &lt;div&gt;&#10;   $END$&#10;  &lt;/div&gt;&#10; );&#10;});&#10;&#10;export default $TM_FILENAME_BASE$;" description="Create stateless React component, as MobX observer" toReformat="true" toShortenFQNames="true">
+  <template name="rsco" value="import * as React from &quot;react&quot;;&#10;import {observer} from &quot;mobx-react&quot;;&#10;&#10;interface PropsInterface {&#10;}&#10;&#10;const $TM_FILENAME_BASE$ = observer((props:PropsInterface) =&gt; {&#10; return (&#10;  &lt;div&gt;&#10;   $END$&#10;  &lt;/div&gt;&#10; );&#10;});&#10;&#10;export default $TM_FILENAME_BASE$;" description="Create stateless React component, as MobX observer" toReformat="true" toShortenFQNames="true">
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
