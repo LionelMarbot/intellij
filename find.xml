@@ -20,5 +20,6 @@
     <mask>*.php</mask>
     <mask>*.css</mask>
     <mask>*.tsx</mask>
+    <mask>*.ts*</mask>
   </component>
 </application>
