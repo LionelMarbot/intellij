@@ -1,12 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".eslint" type="JSON" />
-      <mapping pattern="i" type="PLAIN_TEXT" />
       <mapping pattern=".ebignore" type="PLAIN_TEXT" />
+      <mapping pattern="i" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
-      <mapping ext="config" type="YAML" />
       <mapping pattern=".env.example" type="htaccess" />
+      <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
     </extensionMap>
   </component>
 </application>
