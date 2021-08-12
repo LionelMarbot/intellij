@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '…\tests\services\spam\SpamDetectionServiceTest.php'" />
-    <option name="defaultScopeName" value="File '…\tests\services\spam\SpamDetectionServiceTest.php'" />
+    <option name="customScope" value="Directory '…\src\services\survey\response'" />
+    <option name="defaultScopeName" value="Directory '…\src\services\survey\response'" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="wholeWordsOnly" value="true" />
@@ -10,7 +10,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\tests\services\spam\SpamDetectionServiceTest.php'" />
+    <option name="SEARCH_SCOPE" value="Directory '…\src\services\survey\response'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
